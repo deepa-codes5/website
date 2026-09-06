@@ -1,0 +1,183 @@
+{
+  "dishes": [
+    {
+      "dishesname": "Mutton Biryani",
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0",
+      "price": 260
+    },
+    {
+      "dishesname": "Veg Biryani",
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
+      "price": 140
+    },
+    {
+      "dishesname": "Chicken Fried Rice",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+      "price": 160
+    },
+    {
+      "dishesname": "Veg Fried Rice",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+      "price": 130
+    },
+    {
+      "dishesname": "Chicken Noodles",
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246",
+      "price": 150
+    },
+    {
+      "dishesname": "Veg Noodles",
+      "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+      "price": 120
+    },
+    {
+      "dishesname": "Chicken 65",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "price": 180
+    },
+    {
+      "dishesname": "Chicken Tikka",
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+      "price": 220
+    },
+    {
+      "dishesname": "Tandoori Chicken",
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+      "price": 250
+    },
+    {
+      "dishesname": "Butter Chicken",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "price": 240
+    },
+    {
+      "dishesname": "Chicken Curry",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "price": 200
+    },
+    {
+      "dishesname": "Paneer Butter Masala",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7",
+      "price": 190
+    },
+    {
+      "dishesname": "Paneer Tikka",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8",
+      "price": 180
+    },
+    {
+      "dishesname": "Masala Dosa",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+      "price": 100
+    },
+    {
+      "dishesname": "Plain Dosa",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+      "price": 80
+    },
+    {
+      "dishesname": "Idli",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+      "price": 60
+    },
+    {
+      "dishesname": "Poori Masala",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "price": 90
+    },
+    {
+      "dishesname": "Veg Burger",
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360",
+      "price": 110
+    },
+    {
+      "dishesname": "Chicken Burger",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+      "price": 150
+    },
+    {
+      "dishesname": "Cheese Burger",
+      "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9",
+      "price": 170
+    },
+    {
+      "dishesname": "Margherita Pizza",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+      "price": 180
+    },
+    {
+      "dishesname": "Chicken Pizza",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "price": 240
+    },
+    {
+      "dishesname": "Veg Pizza",
+      "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498",
+      "price": 200
+    },
+    {
+      "dishesname": "Pasta Alfredo",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601",
+      "price": 180
+    },
+    {
+      "dishesname": "Chicken Pasta",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9",
+      "price": 210
+    },
+    {
+      "dishesname": "French Fries",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877",
+      "price": 90
+    },
+    {
+      "dishesname": "Peri Peri Fries",
+      "image": "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d",
+      "price": 120
+    },
+    {
+      "dishesname": "Chicken Wings",
+      "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2",
+      "price": 190
+    },
+    {
+      "dishesname": "Chicken Sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af",
+      "price": 140
+    },
+    {
+      "dishesname": "Club Sandwich",
+      "image": "https://images.unsplash.com/photo-1567234669003-dce7a7a88814",
+      "price": 180
+    },
+    {
+      "dishesname": "Chocolate Cake",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "price": 130
+    },
+    {
+      "dishesname": "Brownie",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+      "price": 100
+    },
+    {
+      "dishesname": "Ice Cream",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+      "price": 80
+    },
+    {
+      "dishesname": "Chocolate Milkshake",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+      "price": 120
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Deepa",
+      "email": "deepa@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
